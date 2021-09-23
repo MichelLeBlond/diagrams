@@ -1,4 +1,4 @@
-<mxfile modified="2021-09-23T18:32:51.287Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="a4LEh-AEwQ1PXzBRUal5" version="15.2.9" type="github">
+<mxfile modified="2021-09-23T18:33:39.772Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="-HsPXxVH-qq6JzW5DI7L" version="15.2.9" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1662" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rdSZgKfeFoEqGlZAM-YM-144" value="" style="group" vertex="1" connectable="0" parent="14">
-          <mxGeometry x="60" y="49.12821052631579" width="278.01" height="282.81915789473686" as="geometry" />
+          <mxGeometry x="44.24" y="49.12821052631579" width="278.01" height="282.81915789473686" as="geometry" />
         </mxCell>
         <mxCell id="rdSZgKfeFoEqGlZAM-YM-116" value="Cloud IAM" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_iam" vertex="1" parent="rdSZgKfeFoEqGlZAM-YM-144">
           <mxGeometry x="198.94058058545758" y="210.04823914797228" width="76.57493296199264" height="72.77091874676455" as="geometry" />
